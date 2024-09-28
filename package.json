@@ -1,0 +1,23 @@
+{
+  "name": "theprojectbe",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@types/cors": "^2.8.17",
+    "@types/express": "^5.0.0",
+    "cors": "^2.8.5",
+    "express": "^4.21.0",
+    "mongoose": "^8.7.0",
+    "netlify-cli": "^17.36.2",
+    "netlify-lambda": "^2.0.16",
+    "serverless-http": "^3.2.0",
+    "socket.io": "^4.8.0"
+  }
+}
